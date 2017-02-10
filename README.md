@@ -1,2 +1,3 @@
-# iframe-auto-dimensions
-Auto dimensions for iframes using jQuery.
+# iFrame auto height.
+
+Auto height jQuery plugin for iframes.
